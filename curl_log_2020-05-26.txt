@@ -1,0 +1,42 @@
+13:09:47 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => post@pixel-dusche.de:Pixel2020
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+

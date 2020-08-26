@@ -1,0 +1,105 @@
+06:22:40 | HTTP-Code: 200
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => api_post_pixel-dusche_de_13863:BUTevenusESYpeteSASALusEtu8AdYPYpuZUsUhU
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [access_token] => 5e3346c66062e3d80c0f653815d5af872d83a88002659629c6c2ebd217fb0e00ef375ddd9964217a75e05230144f44708bc9a592ef96133da79b1b8dfcc4577d37a9c4144fefa644fc75b172e7fcb634
+    [expires_in] => 3600
+    [token_type] => Bearer
+    [scope] => *
+    [ack] => success
+)
+
+
+
+06:22:59 | HTTP-Code: 200
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => api_post_pixel-dusche_de_13863:BUTevenusESYpeteSASALusEtu8AdYPYpuZUsUhU
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [access_token] => f6339defda866e52d8cb5e5a5e1ed09e453037bafb40592027dd31eeae0d6412c0cc0e90a080cdedce73e13aaf47d549922b1f231a03237b7adbc22e0e64e1fb7c76d7aca7a5e440145802ab2c65c146
+    [expires_in] => 3600
+    [token_type] => Bearer
+    [scope] => *
+    [ack] => success
+)
+
+
+
+06:23:33 | HTTP-Code: 200
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => api_post_pixel-dusche_de_13863:BUTevenusESYpeteSASALusEtu8AdYPYpuZUsUhU
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [access_token] => 1373dcf7da038c6ea0b2c60935c898f2f7ac0eb0bf5420fee3bdc6ab8e494cad9f27b65b610c78286a69916150810dc34d5a133fc3066b3c88bf69a5ac7a6b61a54ff119cf5aefc6e7b8ab0256d211be
+    [expires_in] => 3600
+    [token_type] => Bearer
+    [scope] => *
+    [ack] => success
+)
+
+
+

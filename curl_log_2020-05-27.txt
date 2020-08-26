@@ -1,0 +1,1287 @@
+10:12:45 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => post@pixel-dusche.de:Pixel2020
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+10:39:05 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => vunam:123456
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+10:39:13 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => vunam:123456
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+10:39:15 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => vunam:123456
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+10:39:17 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => vunam:123456
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+10:59:30 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => 12345:uPyNageVyDupAXYmasdSADuBfsy7UJubgJyvaquv
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+11:19:51 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => 12345:uPyNageVyDupAXYmasdSADuBfsy7UJubgJyvaquv
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+11:35:12 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => 12345:uPyNageVyDupAXYmasdSADuBfsy7UJubgJyvaquv
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_request
+                    [description] => The grant type was not specified in the request
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+11:36:10 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => 12345:uPyNageVyDupAXYmasdSADuBfsy7UJubgJyvaquv
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+11:38:33 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => vunam:123456
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+11:38:49 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => vunam:123456
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_request
+                    [description] => The grant type was not specified in the request
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+11:39:04 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => vunam:123456
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+11:39:57 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => post@pixel-dusche.de:63863
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+11:41:49 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => post@pixel-dusche.de:Pixel2020
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+11:41:53 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => post@pixel-dusche.de:Pixel2020
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+11:41:55 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => post@pixel-dusche.de:Pixel2020
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+11:42:50 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => post@pixel-dusche.de:Pixel2020
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_request
+                    [description] => The grant type was not specified in the request
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+11:42:53 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => post@pixel-dusche.de:Pixel2020
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_request
+                    [description] => The grant type was not specified in the request
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+12:52:04 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => post@pixel-dusche.de:Pixel2020
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+13:04:27 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => post@pixel-dusche.de:Pixel2020
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_request
+                    [description] => The grant type was not specified in the request
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+13:07:05 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+    [1] => Authorization: Basic post@pixel-dusche.de
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => post@pixel-dusche.de:Pixel2020
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => Client credentials were not found in the headers or body
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+13:07:20 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => post@pixel-dusche.de:Pixel2020
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+13:07:35 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+    [1] => Authorization: Basic post@pixel-dusche.de
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => post@pixel-dusche.de:Pixel2020
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => Client credentials were not found in the headers or body
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+13:08:06 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+    [1] => Authorization: Basic 
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => post@pixel-dusche.de:Pixel2020
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => Client credentials were not found in the headers or body
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+15:09:50 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+    [1] => Authorization: Basic 
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => post@pixel-dusche.de:Pixel2020
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => Client credentials were not found in the headers or body
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+15:20:05 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => post@pixel-dusche.de:Pixel2020
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+15:20:13 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => post@pixel-dusche.de:Pixel2020
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+15:20:48 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => post@pixel-dusche.de:Pixel2020
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+15:20:52 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => post@pixel-dusche.de:Pixel2020
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_client
+                    [description] => The client credentials are invalid
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+15:25:17 | HTTP-Code: 200
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => api_post_pixel-dusche_de_13863:BUTevenusESYpeteSASALusEtu8AdYPYpuZUsUhU
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [access_token] => 16fb73e4734f61648048ead53466923a9a5ad52e8433bdfe85a5b57eca31136b79b0e76a308967970a15d5bde66d55bd6b7e4aa7e1f02ca4c563574fd79d98cf017f9d98291aaa2933a1c3e761bfb900
+    [expires_in] => 3600
+    [token_type] => Bearer
+    [scope] => *
+    [ack] => success
+)
+
+
+
+15:25:28 | HTTP-Code: 200
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => api_post_pixel-dusche_de_13863:BUTevenusESYpeteSASALusEtu8AdYPYpuZUsUhU
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [access_token] => e552a79412a2860a975ddd31be0080b4f335f187cb764b9f038f1d81b2a9c3b819cc4ed3a98ee7da784a6a92e6f7f590792aebaabc164ec30cac7a0843d9198803872b13b49909c18f6d2893b3dd9cb6
+    [expires_in] => 3600
+    [token_type] => Bearer
+    [scope] => *
+    [ack] => success
+)
+
+
+

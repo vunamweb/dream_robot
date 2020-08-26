@@ -1,0 +1,195 @@
+09:28:16 | HTTP-Error: 401
+URL: https://api.dreamrobot.de/rest/v1.1/order/
+POST-Daten: Array
+(
+    [portal_account_id] => 22014
+    [order] => Array
+        (
+            [customer] => Array
+                (
+                    [email] => my.customers@mail.adress
+                    [bill_name_2] => ffff
+                    [address] => Array
+                        (
+                            [name] => Max Mustermann
+                        )
+
+                )
+
+            [line] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 0
+                            [name] => Example article 1
+                            [quantity] => 5
+                            [price] => 34.5
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 1
+                            [name] => Example article 2
+                            [quantity] => 35
+                            [price] => 4.25
+                        )
+
+                )
+
+        )
+
+)
+
+Header: Array
+(
+    [0] => Authorization: Bearer 1a2e226cb910c2eed8f0ac06a10207b71697321cfacc871046bca136519eb1b878e7c3c8863c838c7f3ce870c47bbe35bdad4ee6fafecb779de2572aa3397dc3293af982967b63a71f6601903945b73a
+    [1] => Content-Type: application/json encoding=utf-8
+    [2] => Accept: application/json
+    [3] => Accept-Charset: utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => 
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_token
+                    [description] => The access token provided is invalid
+                    [code] => 401
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
+09:28:20 | HTTP-Code: 200
+URL: https://api.dreamrobot.de/rest/v1.1/token.php
+POST-Daten: Array
+(
+    [grant_type] => client_credentials
+)
+
+Header: Array
+(
+    [0] => Content-Type: application/json encoding=utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => api_post_pixel-dusche_de_13863:BUTevenusESYpeteSASALusEtu8AdYPYpuZUsUhU
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [access_token] => 367b4f1fb8f9cca60750215b451775f00a92e3ad70ea4dc4f3b3de50a7b63e7bdbac40b347cce77847b2185b30954afbeec67e164ba5937114d7d7484fba0e4f79ee89ceaf1439cb372e50e1e02811d5
+    [expires_in] => 3600
+    [token_type] => Bearer
+    [scope] => *
+    [ack] => success
+)
+
+
+
+09:29:05 | HTTP-Error: 400
+URL: https://api.dreamrobot.de/rest/v1.1/order/
+POST-Daten: Array
+(
+    [portal_account_id] => 22014
+    [order] => Array
+        (
+            [customer] => Array
+                (
+                    [email] => my.customers@mail.adress
+                    [bill_name_2] => ffff
+                    [address] => Array
+                        (
+                            [name] => Max Mustermann
+                        )
+
+                )
+
+            [line] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 0
+                            [name] => Example article 1
+                            [quantity] => 5
+                            [price] => 34.5
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 1
+                            [name] => Example article 2
+                            [quantity] => 35
+                            [price] => 4.25
+                        )
+
+                )
+
+        )
+
+)
+
+Header: Array
+(
+    [0] => Authorization: Bearer 367b4f1fb8f9cca60750215b451775f00a92e3ad70ea4dc4f3b3de50a7b63e7bdbac40b347cce77847b2185b30954afbeec67e164ba5937114d7d7484fba0e4f79ee89ceaf1439cb372e50e1e02811d5
+    [1] => Content-Type: application/json encoding=utf-8
+    [2] => Accept: application/json
+    [3] => Accept-Charset: utf-8
+)
+
+DR-Curl-Optionen: Array
+(
+    [verifypeer] => 
+    [verifyhost] => 1
+    [json] => 1
+    [timeout] => 30
+    [return_header] => 
+    [user_pwd] => 
+    [cookie] => 
+    [xml] => 
+)
+
+Antwort: Array
+(
+    [error] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Bad Request
+                    [description] => Unknown input-field "POST https://api.dreamrobot.de/rest/v1.1/order/ order->customer->bill_name_2" with value "ffff".
+                    [code] => 400
+                )
+
+        )
+
+    [ack] => error
+)
+
+
+
